@@ -52,9 +52,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 18 dias    | 1      |
-| 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | 18 dias    | 1      |
-| 3º   | Alta       | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 18 dias    | 1      |
+| 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | -          | 1      |
+| 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | -          | 1      |
+| 3º   | Alta       | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | -          | 1      |
 | 4º   | Média      | -                                                                                                                                                       | -          | 2      |
 | 5º   | Média      | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
 | 6º   | Média      | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
