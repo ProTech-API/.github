@@ -12,10 +12,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+# 📊 Projeto: Mapeamento do Ecossistema Industrial e de Serviços
+
+Este projeto tem como objetivo desenvolver um dashboard interativo no Power BI para análise do ecossistema industrial e de serviços de São José dos Campos e região, utilizando dados da base RAIS.
+
+A solução visa apoiar a tomada de decisão da Secretaria de Desenvolvimento, apresentando indicadores econômicos, distribuição geográfica e análise dos principais setores produtivos.
 
 # Equipe
 |    Função     | Nome  Protech                                |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -46,14 +47,15 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 - Criar visualizações gráficas e painéis analíticos para facilitar a interpretação dos dados  
 - Desenvolver uma interface clara, intuitiva e funcional para o usuário  
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-* Python (Colab)
-* Power BI
-* Excel
-* Word
-* PowerPoint
+- Python (Google Colab)  
+- Power BI  
+- Microsoft Excel  
+- Microsoft Word  
+- Microsoft PowerPoint  
 
+## 📸 Preview do Dashboard
 
 
 # Product Backlog
