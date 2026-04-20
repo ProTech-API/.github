@@ -86,3 +86,8 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 | 02                | 18/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
+
+## 📄 Documentação
+
+Acesse a documentação completa do projeto:  
+[Documentação do Projeto](file:///C:/Users/pedro/Downloads/Documentação.pdf)
