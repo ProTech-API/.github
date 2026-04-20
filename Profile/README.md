@@ -1,8 +1,10 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# 📊 ProTech – Mapeamento do Ecossistema Industrial e de Serviços
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+> ProTech – projetando um futuro com ética.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Este projeto faz parte do Aprendizado por Projeto Integrado (API) da FATEC, metodologia que integra teoria e prática por meio da resolução de problemas reais, utilizando conceitos de metodologias ágeis como SCRUM.
+
+No contexto deste projeto, a equipe ProTech desenvolve um dashboard interativo no Power BI para análise do ecossistema industrial e de serviços de São José dos Campos e região, utilizando dados da RAIS.
 
 # Índice
 
