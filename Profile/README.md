@@ -16,6 +16,7 @@ No contexto deste projeto, a equipe ProTech desenvolve um dashboard interativo n
 - [📸 Preview do Dashboard](#-preview-do-dashboard)
 - [📋 Product Backlog](#product-backlog)
 - [📅 Registro das Sprints](#registro-das-sprints)
+- [📄 Documentação](#-documentação)
 
 
 # 📊 Projeto: Mapeamento do Ecossistema Industrial e de Serviços
@@ -89,5 +90,6 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 
 ## 📄 Documentação
 
-Acesse a documentação completa do projeto:  
-[Documentação do Projeto](file:///C:/Users/pedro/Downloads/Documentação.pdf)
+- 📘 [Documentação Completa](./docs/Documentação.pdf)
+
+
