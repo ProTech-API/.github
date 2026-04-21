@@ -64,6 +64,8 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 
 ## 📸 Preview do Dashboard
 
+<img width="718" height="809" alt="image" src="https://github.com/user-attachments/assets/0fda009f-973b-4b23-bc17-ec61ad61a257" />
+
 
 # Product Backlog
 
