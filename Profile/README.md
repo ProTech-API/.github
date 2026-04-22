@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="ChatGPT Image Apr 21, 2026, 02_29_26 PM" src="https://github.com/user-attachments/assets/a1257525-1e3b-42ff-8ff1-81b10285725d" />
 # 📊 ProTech – Mapeamento do Ecossistema Industrial e de Serviços
 
 > ProTech – projetando um futuro com ética.
