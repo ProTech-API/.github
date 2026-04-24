@@ -65,10 +65,8 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 - Microsoft PowerPoint  
 
 ## 📸 Preview do Dashboard 
-(Protótipo exemplar)
 
-<img width="718" height="809" alt="image" src="https://github.com/user-attachments/assets/0fda009f-973b-4b23-bc17-ec61ad61a257" />
-
+https://centropaulasouza-my.sharepoint.com/:u:/r/personal/guilherme_peratelli_aluno_cps_sp_gov_br/Documents/s%C3%A3ojos%C3%A9doscamposdashboard.pbix?csf=1&web=1&e=c2ti0l
 
 
 # Product Backlog
