@@ -76,10 +76,10 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 | 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 18 dias    | 1      |
 | 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | 18 dias    | 1      |
 | 3º   | Alta       | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 18 dias    | 1      |
-| 4º   | Alta       | Como esses setores estão distribuídos geograficamente no município e na região?                                                                         | -          | 2      |
+| 4º   | Alta       | Quais são as principais empresas dos principais setores industriais e de serviços em São José dos Campos e região?                                      | -          | 2      |
 | 5º   | Alta       | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
 | 6º   | Alta       | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
-| 7º   | Alta       | Quais são as principais empresas dos principais setores industriais e de serviços em São José dos Campos e região?                                      | -          | 2      |
+| 7º   | Alta       |  Como esses setores estão distribuídos geograficamente no município e na região?                                                                        | -          | 2      |
 | 8°   | Média      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto? 
   
 
